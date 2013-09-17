@@ -1,0 +1,45 @@
+Patent Background
+
+Info:
+
+We all need to write a part of this summary. Below I have delegated who is doing what. If you do not like what you are working on then ask someone to switch and we can change it.
+
+Summary:
+
+(This Part needs to be done as team; Use a Forum or whatever works for your team):
+Which Patent will your team be writing and talking about?  
+What is the most important purpose (Prime Objective) of this component? (~50 words) (e.g. The sail’s greatest purpose will be to offer theWindrider an alternative mode of propulsion to pedalling or otherwise turning the crank set.  The sail’s main role will be to harness as much energy as possible from the wind.  Without throwing the rider off balance, the additional forces and the derived energy should contribute to moving the rider forward and towards their destination. )
+
+What will be its most challenging aspect?
+
+
+Topic:						Assigned To:
+========================================
+Intro 				-		Matthew
+Prime Objective 	- 		David	
+Challenging Aspect  - 		Larona
+Outro				- 		Connor (Not sure if we need an outro ... you decide)
+
+
+
+
+
+Intro:
+Safety in a world that is ever technologically advancing is becoming more and more complex. One of the most rapidly changing fields of safety is surveillance. Surveillance itself is a primitive method of monitoring as it only provides one stream of data, visual audio. To enhance this a "Surveillance System with Identification Correlation" was chosen to incorporate location and object recognition with the video surveillance. 
+
+
+Prime Objective: (~50 Words)
+
+
+
+Challenging Aspect: 
+
+
+
+Outro:
+
+
+
+
+
+
