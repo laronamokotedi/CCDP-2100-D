@@ -13,9 +13,9 @@ Each Team-Member of your particular Patent-Project will need to research, determ
 ####Name: Matthew Maynes**Name of your Principle 1**: Huygens–Fresnel Principle: Wave Propagation Source course:  PHYS 1004
 Reference 1: [Math Pages](http://www.mathpages.com/home/kmath242/kmath242.htm)
                                                               Reference 2: [Salford](http://www.acoustics.salford.ac.uk/feschools/waves/propagation.php)
-Explanation of your Principle 1 in ~200 words or less:**Name of your Principle 2**: Surface Texture Analysis using Dektak Stylus Profiles 
- Source course:  
-Reference 1: [Theory](https://www.rpi.edu/dept/cie/mncr/documents/AN525_Dektak_Surface.pdf)
+Explanation of your Principle 1 in ~200 words or less:**Name of your Principle 2**: Four-Terminal Sensing using Kelvin Resistance Measurement
+ Source course: PHYS 1004
+Reference 1: [Theory](http://www.allaboutcircuits.com/vol_1/chpt_8/9.html)
                                                               Reference 2:
 Explanation of your Principle 2 in ~200 words or less:
 
