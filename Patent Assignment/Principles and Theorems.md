@@ -24,7 +24,7 @@ Each Team-Member of your particular Patent-Project will need to research, determ
  Source course:  
 Reference 1:   
                                                               Reference 2:
-Explanation of your Principle 1 in ~200 words or less:**Name of your Principle 2**:
+Explanation of your Principle 1 in ~200 words or less:**Name of your Principle 2**:	Ohm's Law 
  Source course:  
 Reference 1:   
                                                               Reference 2:
