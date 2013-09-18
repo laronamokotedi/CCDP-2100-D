@@ -20,7 +20,7 @@ Each Team-Member of your particular Patent-Project will need to research, determ
 Explanation of your Principle 2 in ~200 words or less:
 
 
-####Name: David Briglio**Name of your Principle 1**:
+####Name: David Briglio**Name of your Principle 1**:	Kirchhoff's law of thermal radiation
  Source course:  
 Reference 1:   
                                                               Reference 2:
